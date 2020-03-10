@@ -3,5 +3,8 @@
 A docker to record text animation...
 Inspired by a script from technical Mujeeb
 
-build
-./render "text"
+docker build .
+
+docker run...
+
+./render.sh "text"
